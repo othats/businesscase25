@@ -21,3 +21,12 @@ python3 -m venv danone_env
 source danone_env/bin/activate
 # En Windows (CMD o PowerShell):
 .\danone_env\Scripts\activate
+```
+
+#### B. Instalar Dependencias
+
+```bash
+pip install -r requirements.txt
+```
+
+Ya puedes ejecutar el notebook! 
